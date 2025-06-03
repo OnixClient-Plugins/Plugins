@@ -1,0 +1,3 @@
+[submodule "OnixPluginManager"]
+	path = OnixPluginManager
+	url = https://github.com/OnixClient-Plugins/OnixPluginManager.git
