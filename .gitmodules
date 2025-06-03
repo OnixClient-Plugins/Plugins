@@ -1,3 +1,15 @@
 [submodule "OnixPluginManager"]
 	path = OnixPluginManager
 	url = https://github.com/OnixClient-Plugins/OnixPluginManager.git
+[submodule "ContainR"]
+	path = ContainR
+	url = https://github.com/OnixClient-PluginForks/ContainR-Plugin.git
+[submodule "VisualJukebox"]
+	path = VisualJukebox
+	url = https://github.com/OnixClient-PluginForks/VisualJukebox-Plugin.git
+[submodule "DoubleDoors"]
+	path = DoubleDoors
+	url = https://github.com/OnixClient-PluginForks/DoubleDoors-Plugin.git
+[submodule "VeinMiner"]
+	path = VeinMiner
+	url = https://github.com/OnixClient-PluginForks/VeinMiner-Plugin.git
