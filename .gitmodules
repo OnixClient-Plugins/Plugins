@@ -13,3 +13,6 @@
 [submodule "VeinMiner"]
 	path = VeinMiner
 	url = https://github.com/OnixClient-PluginForks/VeinMiner-Plugin.git
+[submodule "OminousBlueCircleAtTheCentreOfTheWorld"]
+	path = OminousBlueCircleAtTheCentreOfTheWorld
+	url = https://github.com/CreeperG16/OminousBlueCircleAtTheCentreOfTheWorld
