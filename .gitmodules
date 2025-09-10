@@ -10,6 +10,3 @@
 [submodule "DoubleDoors"]
 	path = DoubleDoors
 	url = https://github.com/OnixClient-PluginForks/DoubleDoors-Plugin.git
-[submodule "VeinMiner"]
-	path = VeinMiner
-	url = https://github.com/OnixClient-PluginForks/VeinMiner-Plugin.git
