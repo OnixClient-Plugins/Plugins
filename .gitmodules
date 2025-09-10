@@ -10,3 +10,12 @@
 [submodule "DoubleDoors"]
 	path = DoubleDoors
 	url = https://github.com/OnixClient-PluginForks/DoubleDoors-Plugin.git
+[submodule "Skinstealer-Plugin"]
+	path = Skinstealer-Plugin
+	url = https://github.com/OnixClient-PluginForks/Skinstealer-Plugin
+[submodule "IdleFrames-Plugin"]
+	path = IdleFrames-Plugin
+	url = https://github.com/OnixClient-PluginForks/IdleFrames-Plugin
+[submodule "ChatTools-Plugin"]
+	path = ChatTools-Plugin
+	url = https://github.com/OnixClient-PluginForks/ChatTools-Plugin
