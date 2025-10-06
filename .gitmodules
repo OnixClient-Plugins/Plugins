@@ -19,3 +19,6 @@
 [submodule "ChatTools-Plugin"]
 	path = ChatTools-Plugin
 	url = https://github.com/OnixClient-PluginForks/ChatTools-Plugin
+[submodule "DisconnectConfirmation-Plugin"]
+	path = DisconnectConfirmation-Plugin
+	url = https://github.com/OnixClient-PluginForks/DisconnectConfirmation-Plugin
