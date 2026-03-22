@@ -22,3 +22,6 @@
 [submodule "DisconnectConfirmation-Plugin"]
 	path = DisconnectConfirmation-Plugin
 	url = https://github.com/OnixClient-PluginForks/DisconnectConfirmation-Plugin
+[submodule "OnixSM64-Plugin"]
+	path = OnixSM64-Plugin
+	url = https://github.com/OnixClient-PluginForks/OnixSM64-Plugin.git
