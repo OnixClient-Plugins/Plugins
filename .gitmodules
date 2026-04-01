@@ -25,3 +25,6 @@
 [submodule "OnixSM64-Plugin"]
 	path = OnixSM64-Plugin
 	url = https://github.com/OnixClient-PluginForks/OnixSM64-Plugin.git
+[submodule "MusicBox-Plugin"]
+	path = MusicBox-Plugin
+	url = https://github.com/OnixClient-PluginForks/MusicBox-Plugin.git
