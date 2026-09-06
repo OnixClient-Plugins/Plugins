@@ -28,3 +28,6 @@
 [submodule "MusicBox-Plugin"]
 	path = MusicBox-Plugin
 	url = https://github.com/OnixClient-PluginForks/MusicBox-Plugin.git
+[submodule "OnixHiveStreak"]
+	path = OnixHiveStreak
+	url = https://github.com/OnixClient-PluginForks/OnixHiveStreak.git
