@@ -31,3 +31,9 @@
 [submodule "OnixHiveStreak"]
 	path = OnixHiveStreak
 	url = https://github.com/OnixClient-PluginForks/OnixHiveStreak.git
+[submodule "WHAT-Plugin"]
+	path = WHAT-Plugin
+	url = https://github.com/OnixClient-PluginForks/WHAT-Plugin.git
+[submodule "FlashBirds-Plugin"]
+	path = FlashBirds-Plugin
+	url = https://github.com/bernarddesfosse/FlashBirds-Plugin.git
